@@ -5,6 +5,8 @@
 </div>
 
 <br/><a href="mailto:madeinduc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/>
+<br/>
 
 # 🔧 Technologies & Tools
 
@@ -66,6 +68,7 @@
     </td>      
   </tr>
 </table>
+<br/>
 
 # 📈 Stats
 
