@@ -1,17 +1,76 @@
-# Hi
-<h3 align="center">I am a Tsukemen lover and Vacuum Chamber designer. Just learning new language and coding when have free time.</h3>
+# 👋Hey there
+
+<div align="justify">
+    I am a Tsukemen lover and Vacuum Chamber designer. Just learning new language and coding when have free time.
+</div>
+
+<br/><a href="mailto:madeinduc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+# 🔧 Technologies & Tools
+
+<table>
+  <tr>        
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg"
+        width="48"
+        height="48"
+        alt="VBA"
+      />
+      <br /><strong>VBA</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>    
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg"
+        width="48"
+        height="48"
+        alt="SQLite"
+      />
+      <br /><strong>SQLite</strong>
+    </td>      
+  </tr>
+</table>
+
+# 📈 Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyamoto120&show_icons=true&locale=en&layout=compact&theme=react&&hide_border=true" alt="miyamoto120" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamoto120&show_icons=true&locale=en&theme=react&&hide_border=true" alt="miyamoto120" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyamoto120&label=Profile%20views&color=0e75b6&style=flat" alt="miyamoto120" /> </p>
-
-- 📫 How to reach me **madeinduc@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyamoto120&show_icons=true&locale=en&layout=compact" alt="miyamoto120" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamoto120&show_icons=true&locale=en" alt="miyamoto120" /></p>
