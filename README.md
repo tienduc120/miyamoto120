@@ -59,12 +59,21 @@
     </td>    
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="SQLite"
+        alt="MySQL"
       />
-      <br /><strong>SQLite</strong>
+      <br /><strong>MySQL</strong>
+    </td>      
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"
+        width="48"
+        height="48"
+        alt="C"
+      />
+      <br /><strong>C#/C++</strong>
     </td>      
   </tr>
 </table>
