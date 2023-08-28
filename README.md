@@ -4,7 +4,9 @@
     I am a Tsukemen lover and Vacuum Chamber designer. Just learning new language and coding when have free time.
 </div>
 
-<br/><a href="mailto:madeinduc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/>
+<a href="https://www.linkedin.com/in/luu-tien-duc-18991682/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:madeinduc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <br/>
 <br/>
 
