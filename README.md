@@ -1,4 +1,4 @@
-# 👋Hey there
+# Hey there
 
 <div align="justify">
     I am a Tsukemen lover and Vacuum Chamber designer. Just learning new language and coding when have free time.
@@ -82,9 +82,5 @@
 <br/>
 
 # 📈 Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyamoto120&show_icons=true&locale=en&layout=compact&theme=react&&hide_border=true" alt="miyamoto120" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miyamoto120&show_icons=true&locale=en&theme=react&&hide_border=true" alt="miyamoto120" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyamoto120&label=Profile%20views&color=0e75b6&style=flat" alt="miyamoto120" /> </p>
