@@ -75,7 +75,7 @@ class AppPortfolio {
                 </div>
             </div>
             <div class="app-media">
-                ${app.image ? `<img src="${this.escapeHtml(app.image)}" alt="${this.escapeHtml(app.name)}" onerror="this.style.display='none'; this.parentElement.innerHTML='Image not found';">` : 'Add image/GIF'}
+                ${app.image ? `<a href="${this.escapeHtml(app.url)}" target="_blank"><img src="${this.escapeHtml(app.image)}" alt="${this.escapeHtml(app.name)}" onerror="this.style.display='none'; this.parentElement.parentElement.innerHTML='Image not found';"></a>` : 'Add image/GIF'}
             </div>
         `;
 

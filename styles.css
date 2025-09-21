@@ -185,6 +185,23 @@ section h2 {
     max-height: 100%;
     object-fit: contain;
     border-radius: 6px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.app-media a {
+    display: block;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.app-media a:hover {
+    transform: scale(1.05);
+}
+
+.app-media a:hover img,
+.app-media a:hover video {
+    transform: scale(1.02);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
 .app-link {
@@ -202,6 +219,8 @@ section h2 {
 
 .app-link.primary:hover {
     background: #1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
 .app-link.secondary {

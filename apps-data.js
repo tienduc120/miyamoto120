@@ -25,7 +25,7 @@ const appsData = [
         name: "Store Heatmap",
         description: "A tool for capture customer behavior inside a store, mostly for optimize store layout.",
         url: "https://tienduc120.github.io/store-heatmap/",
-        image: "./assets/images/store-heatmap.png",
+        image: "./assets/images/store-heatmap2.png",
         category: "web",
         dateAdded: "20250919"
     }
